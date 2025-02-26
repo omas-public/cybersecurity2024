@@ -37,5 +37,5 @@
 
 \* 提出画像のサンプルを示す
 
-[experimental #01](./omas/ex01.png)
-[experimental #03](./omas/ex03.png)
+![experimental #01](./omas/ex01.png)
+![experimental #03](./omas/ex03.png)
